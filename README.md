@@ -3,7 +3,7 @@
 ![Deploy](https://img.shields.io/github/deployments/krismoshiro/risk-map-iquique-front/github-pages?label=Deploy&style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-**Servicio para la visualización interactiva de zonas críticas de accidentes en la Región de Tarapacá, Chile**  
+**Visualización interactiva de zonas críticas de accidentes en la Región de Tarapacá, Chile.**  
 Repositorio principal del proyecto de investigación basado en minería de datos y visualización geográfica.
 
 🔗 **Demo:** [https://krismoshiro.github.io/risk-map-iquique-front/](https://krismoshiro.github.io/risk-map-iquique-front/)
