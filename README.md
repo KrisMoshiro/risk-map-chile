@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/522291a8-8273-4e93-b8dd-95406795ccb7" alt="Risk Map Iquique Banner" width="400"/>
+</p>
+
 # 🌍 Risk Map Iquique
 
 ![Deploy](https://img.shields.io/github/deployments/krismoshiro/risk-map-iquique-front/github-pages?label=Deploy&style=flat-square)
@@ -7,6 +11,8 @@
 Repositorio principal del proyecto de investigación basado en minería de datos y visualización geográfica.
 
 🔗 **Demo:** [https://krismoshiro.github.io/risk-map-iquique-front/](https://krismoshiro.github.io/risk-map-iquique-front/)
+
+![image](https://github.com/user-attachments/assets/0e33f5b9-6817-40a3-8ca8-db425d9f2f23)
 
 ---
 
@@ -71,34 +77,6 @@ Analizar los accidentes de tránsito en la Región de Tarapacá entre los años 
 
 📍 Enlace a documentación técnica  
 🔗( próximamente disponible... )
-
----
-
-## 🧠 Proceso de Minería de Datos
-
-### 1. Comprensión del Negocio
-
-- Datos públicos de siniestros viales de **Carabineros de Chile** y **CONASET**.
-- Foco en accidentes con geolocalización en la región de Tarapacá.
-
-### 2. Preparación de los Datos
-
-- Limpieza y transformación de registros.
-- Geocodificación: conversión a latitud y longitud.
-
-### 3. Modelado
-
-- Aplicación del algoritmo **DBSCAN** para segmentación espacial.
-- Agrupación de siniestros en zonas críticas.
-- Clustering por:
-  - **Tramos horarios:** 00-06, 06-12, 12-19, 19-00.
-  - **Gravedad:** Muertos, graves, menos graves, leves, ilesos.
-
-### 4. Evaluación
-
-- Validación visual con mapas generados con **Folium**.
-- Comparación con conocimiento empírico de zonas de riesgo.
-- Futuras mejoras: uso de métricas como silueta o codo.
 
 ---
 
