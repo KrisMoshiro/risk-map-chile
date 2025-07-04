@@ -129,4 +129,5 @@ uvicorn main:app --reload
 Proyecto desarrollado por:
 
 Christian Hernández – @krismoshiro
+
 Victor Muñoz – @vistor05
