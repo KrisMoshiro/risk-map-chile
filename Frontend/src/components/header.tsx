@@ -1,4 +1,3 @@
-// src/components/Header.tsx
 import { AppBar, Toolbar, Typography, IconButton, Box } from "@mui/material";
 import { Brightness4, Brightness7 } from "@mui/icons-material";
 import Logo from "../assets/Img/Logo.png";
@@ -22,7 +21,7 @@ export const Header = ({ darkMode, toggleTheme }: HeaderProps) => (
         noWrap
         sx={{ flexGrow: 1, display: { xs: "none", sm: "block" } }}
       >
-        Risk Map Iquique Project
+        Risk Map Chile
       </Typography>
       <Typography
         variant="h6"
