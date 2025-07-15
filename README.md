@@ -85,9 +85,9 @@ Analizar los accidentes de tránsito en la Región de Tarapacá entre los años 
 ### Clonar los Repositorios
 
 ```bash
-git clone https://github.com/krismoshiro/risk-map-iquique-front.git
-git clone https://github.com/vistor05/Risk_Map_Iquique_Back.git
-git clone https://github.com/krismoshiro/risk-map-iquique-data.git
+git clone https://github.com/krismoshiro/risk-map-chile-front.git
+git clone https://github.com/vistor05/risk_map_chile_back.git
+git clone https://github.com/krismoshiro/risk-map-chile-data.git
 ```
 ### Frontend
 ```bash
