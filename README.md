@@ -66,13 +66,6 @@ Analizar los accidentes de tránsito en la Región de Tarapacá entre los años 
 
 ---
 
-## 📄 Documentación
-
-### API REST
-
-👉 La documentación completa de la API está disponible en Swagger:  
-🔗 [https://risk-map-chile-back.onrender.com/docs](https://risk-map-chile-back.onrender.com/docs)
-
 ### Minería de Datos en Python
 
 📍 Enlace a documentación técnica  
@@ -86,18 +79,18 @@ Analizar los accidentes de tránsito en la Región de Tarapacá entre los años 
 
 ```bash
 git clone https://github.com/krismoshiro/risk-map-chile-front.git
-git clone https://github.com/vistor05/risk_map_chile_back.git
+git clone https://github.com/vistor05/risk_map-chile-back.git
 git clone https://github.com/krismoshiro/risk-map-chile-data.git
 ```
 ### Frontend
 ```bash
-cd risk-map-iquique-front
+cd risk-map-chile-front
 npm install
 npm run dev
 ```
 ### Backend
 ```bash
-cd ../risk_map_chile_back
+cd ../risk-map-chile-back
 python -m venv venv
 source venv/bin/activate  # En Windows: venv\Scripts\activate
 pip install -r requirements.txt
