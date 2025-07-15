@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fd215dff-0a3f-4a5e-ae30-c14073edbd4b" alt="Risk Map Iquique Banner" width="400"/>
+  <img src="https://github.com/user-attachments/assets/fd215dff-0a3f-4a5e-ae30-c14073edbd4b" alt="Risk Map Iquique Banner" width="200"/>
 </p>
 
 # 🌍 Risk Map Chile
