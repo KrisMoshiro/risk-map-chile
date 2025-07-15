@@ -4,13 +4,13 @@
 
 # 🌍 Risk Map Chile
 
-![Deploy](https://img.shields.io/github/deployments/krismoshiro/risk-map-iquique-front/github-pages?label=Deploy&style=flat-square)
+![Deploy](https://img.shields.io/github/deployments/krismoshiro/risk-map-chile-front/github-pages?label=Deploy&style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 **Visualización interactiva de zonas críticas de accidentes en la Región de Tarapacá, Chile.**  
 Repositorio principal del proyecto de investigación basado en minería de datos y visualización geográfica.
 
-🔗 **Demo:** [https://krismoshiro.github.io/risk-map-iquique-front/](https://krismoshiro.github.io/risk-map-iquique-front/)
+🔗 **Demo:** [https://krismoshiro.github.io/risk-map-iquique-front/](https://krismoshiro.github.io/risk-map-chile-front/)
 
 ![image](https://github.com/user-attachments/assets/0e33f5b9-6817-40a3-8ca8-db425d9f2f23)
 
@@ -71,12 +71,12 @@ Analizar los accidentes de tránsito en la Región de Tarapacá entre los años 
 ### API REST
 
 👉 La documentación completa de la API está disponible en Swagger:  
-🔗 [https://risk-map-iquique-back.onrender.com/docs](https://risk-map-iquique-back.onrender.com/docs)
+🔗 [https://risk-map-chile-back.onrender.com/docs](https://risk-map-chile-back.onrender.com/docs)
 
 ### Minería de Datos en Python
 
 📍 Enlace a documentación técnica  
-🔗( próximamente disponible... )
+🔗 [https://colab.research.google.com/drive/1auWH-5G5bs2ycHS1uqpXkIOKMTArsCxb?usp=drive_link](https://colab.research.google.com/drive/1auWH-5G5bs2ycHS1uqpXkIOKMTArsCxb?usp=drive_link)
 
 ---
 
@@ -97,7 +97,7 @@ npm run dev
 ```
 ### Backend
 ```bash
-cd ../Risk_Map_Iquique_Back
+cd ../risk_map_chile_back
 python -m venv venv
 source venv/bin/activate  # En Windows: venv\Scripts\activate
 pip install -r requirements.txt
