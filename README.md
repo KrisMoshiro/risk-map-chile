@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/522291a8-8273-4e93-b8dd-95406795ccb7" alt="Risk Map Iquique Banner" width="400"/>
 </p>
 
-# 🌍 Risk Map Iquique
+# 🌍 Risk Map Chile
 
 ![Deploy](https://img.shields.io/github/deployments/krismoshiro/risk-map-iquique-front/github-pages?label=Deploy&style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -20,9 +20,9 @@ Repositorio principal del proyecto de investigación basado en minería de datos
 
 El proyecto completo se compone de tres repositorios conectados:
 
-- **Frontend:** [`risk-map-iquique-front`](https://github.com/krismoshiro/risk-map-iquique-front)  
-- **Backend:** [`risk-map-iquique-back`](https://github.com/vistor05/Risk_Map_Iquique_Back)  
-- **Datos:** [`risk-map-iquique-data`](https://github.com/krismoshiro/risk-map-iquique-data)  
+- **Frontend:** [`risk-map-chile-front`](https://github.com/krismoshiro/risk-map-chile-front)
+- **Backend:** [`risk-map-chile-back`](https://github.com/vistor05/risk_map_chile_back) 
+- **Datos:** [`risk-map-chile-data`](https://github.com/krismoshiro/risk-map-chile-data)
 
 ---
 
