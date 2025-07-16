@@ -5,13 +5,14 @@ from sklearn.cluster import DBSCAN
 import pandas as pd
 from dataMining.data_preprocessing import data_preprocessing
 from dataMining.generate_map import generate_map
-#Función principal
+
+#Función principal donde executa el mapa
 def execute_script():
     print('ejecutando...')
     # Carga de datos
     url = 'https://github.com/KrisMoshiro/risk-map-iquique-data/raw/refs/heads/main/acc_2010_2023_V4.3.csv'
     df = pd.read_csv(url)
-    features = ['Latitud', 'Longitud']#, 'Muertos', 'Graves', 'Menos Graves', 'Leves','Ilesos']
+    features = ['Latitud', 'Longitud']
     X = df[features].copy()
     scaler = StandardScaler()
 
@@ -26,22 +27,3 @@ def execute_script():
 
 
 execute_script()
-
-
-
-# os.system('cls')
-# print('¿Cual desea ejecutar?\n')
-# print('1) Básico\n2) Hora\n3) Afectación\n4) Todos')
-# option = int(input('Ingrese opcion: '))
-# print('ejecutando...')
-# if(option == 1):
-#     execute_script('basic')    
-# elif(option == 2):
-#     execute_script('hr')
-# elif(option == 3):
-#     execute_script('affectation')
-# else:
-#     execute_script('hr')
-#     execute_script('basic')
-#     execute_script('affectation')
-# print('proceso finalizado')
